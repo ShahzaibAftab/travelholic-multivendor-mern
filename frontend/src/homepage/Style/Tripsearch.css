@@ -1,0 +1,22 @@
+.main-Trip-Search{
+    display: flex;
+    justify-content: space-between;
+}
+.flightButton {
+    width: 50%;
+    font-size: large;
+    font-weight: 800;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+.tourButton {
+    width: 50%;
+    font-size: large;
+    font-weight: 800;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  

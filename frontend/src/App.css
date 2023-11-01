@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.vertical-hr {
+  position: relative;
+  width: 1px;
+  height: 40px; /* Adjust the height as per your requirement */
+  background-color: rgb(155, 151, 151); /* Adjust the color as per your preference */
+  margin: 0 auto;
+}
+a{
+  text-decoration:none;
+}
+.shadow{
+  box-shadow: '0 2px 4px rgba(0, 0, 0, 0.1)'
+}
+.borderoutline{
+  border:0;
+  outline:none;
+}
+.boldtext {
+  font-weight: bold;
+}
+.btn-fixed-size {
+  width: 150px;
+  height: 40px;
+}
+
